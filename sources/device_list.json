@@ -11,6 +11,12 @@
       "vendor": "Xiaomi",
       "model": "Redmi Note 11/NFC",
       "active": true
+    },
+    {
+      "codename": "munch",
+      "vendor": "Xiaomi",
+      "model": "Poco F4 5G",
+      "active": true
     }
   ]
 }
