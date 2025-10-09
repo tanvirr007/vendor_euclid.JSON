@@ -1,0 +1,16 @@
+{
+  "devices": [
+    {
+      "codename": "e3q",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy S24 Ultra",
+      "active": true
+    },
+    {
+      "codename": "spes",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 11/NFC",
+      "active": true
+    }
+  ]
+}
