@@ -17,6 +17,12 @@
       "vendor": "Xiaomi",
       "model": "Poco F4 5G",
       "active": true
+     },
+    {
+      "codename": "oscaro",
+      "vendor": "OnePlus",
+      "model": "OnePlus Nord CE2 Lite 5G",
+      "active": true
     }
   ]
 }
