@@ -107,6 +107,7 @@ spes: Update support_group url
 -----
 
 **Step 5. Final Checks Before pull request:**
+- Always pull latest changes from [main](https://github.com/tanvirr007/vendor_euclid.JSON/tree/main) branch before creating a pull request
 - Check [this](https://github.com/tanvirr007/vendor_euclid.JSON/commit/8c58530ecb50985d4386dc527477a8cbe0faacf2) commit for reference
 - Confirm your support link and usernames are correct
 - Make sure all filenames match the device codename exactly
