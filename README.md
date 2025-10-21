@@ -112,4 +112,5 @@ spes: Update support_group url
 - Confirm your support link and usernames are correct
 - Make sure all filenames match the device codename exactly
 - You can use this [json formatter tool](https://jsonformatter.curiousconcept.com) to validate your JSON
+- Please recheck that your commit message follows the correct structure
 -----
