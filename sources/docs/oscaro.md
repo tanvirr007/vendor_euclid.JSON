@@ -1,25 +1,51 @@
-Flashing Guide for OnePlus Nord CE2 Lite 5G
+# Flashing steps for Oneplus Nord CE2 Lite(oscaro)
 
-#Clean Flash
-Download flash-rom.zip from Rom post
-Extract flash-rom.zip and flash using commands below
-Flash in fastboot 
+**Before start flashing.....**
+- Backup all your Data (If doing clean flash)
+- Download flash_rom.zip from SF
+
+## Clean Flash 
+   **Download & Extract flash_matrixx.zip from website**
+   **Flash in fastboot mode**
+
+```
 fastboot wipe-super super_empty.img
 fastboot flash boot boot.img
 fastboot flash dtbo dtbo.img
 fastboot flash vbmeta vbmeta.img
-Flash Recovery
 fastboot flash vendor_boot vendor_boot.img
+```
+
+**Reboot to recovery**
+```
 fastboot reboot recovery
-Flash Rom
-Apply/Install Update > Apply from ADB 
-adb sideload <path_to_file.zip>
-Format Data 
-Reboot
+```
+
+**Flash rom**
+ 
+Apply/Install Update > Apply from ADB
+
+```
+adb sideload <path_to_file.>.zip
+```
+Format Data
+
+Reboot to recovery and flash gapps package(if needed)
+
+**Format data and reboot to system** 
 
 
-#Dirty Flash
+## Dirty Flash
 Reboot to recovery 
-Apply/Install Update > Apply from ADB 
-adb sideload <path_to_file.zip>
-Reboot
+
+Apply/Install Update > Apply from ADB 
+
+**adb sideload**
+```
+adb sideload <path_to_file>.zip
+```
+Reboot to system
+
+
+
+
