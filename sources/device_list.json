@@ -23,6 +23,12 @@
       "vendor": "OnePlus",
       "model": "OnePlus Nord CE2 Lite 5G",
       "active": true
+    },
+    {
+      "codename": "vayu",
+      "vendor": "Xiaomi",
+      "model": "Poco X3 Pro",
+      "active": true
     }
   ]
 }
