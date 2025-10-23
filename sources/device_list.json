@@ -29,6 +29,18 @@
       "vendor": "Xiaomi",
       "model": "Poco X3 Pro",
       "active": true
+    },
+    {
+      "codename": "aston",
+      "vendor": "OnePlus",
+      "model": "OnePlus 12R/Ace 3",
+      "active": true
+    },
+    {
+      "codename": "caihong",
+      "vendor": "OnePlus",
+      "model": "OnePlus Pad 2/Pro",
+      "active": true
     }
   ]
 }
