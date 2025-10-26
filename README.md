@@ -114,7 +114,7 @@ spes: Update support_group url
 - Confirm your support link and usernames are correct
 - Make sure all filenames match the device codename exactly
 - You can use this [json formatter tool](https://jsonformatter.curiousconcept.com) to validate your JSON
-To update the banner, just replace the old banner.png with a new file named banner.png . This is needed for banner updates
+- To update the banner, just replace the old banner.png with a new file named banner.png . This is needed for banner updates
 - Please recheck that your commit message follows the correct structure
 -----
 
