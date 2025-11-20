@@ -93,10 +93,10 @@ echo "1..."
 sleep 1
 clear
 
-echo "--- Step 1. Open sources/device_list.json and register your device info ---"
+echo "--- Step 1. Insert the object from temp/device_list.json into the devices[] array in sources/device_list.json ---"
 echo "$STEP1_JSON"
 echo
-echo "--- Step 2. Move this $CODENAME.json file inside sources/devices/ directory ---"
+echo "--- Step 2. Move your $CODENAME.json from bin/temp/ to sources/devices/ ---"
 echo "$STEP2_JSON"
 echo
 
