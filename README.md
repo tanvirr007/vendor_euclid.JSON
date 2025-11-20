@@ -74,6 +74,12 @@ repo/sources/
 </details>
 
 -----
+**Automate JSON Generation:** If you want to auto-generate the JSON files, run the **build.sh** script from the **bin** folder:
+- **Using:**
+```bash
+bash bin/build.sh
+```
+-----
 
 **Step 3. Add Installation Guide:** Create a Markdown file under sources/docs/ dir named codename.md and write your flashing steps there
 
