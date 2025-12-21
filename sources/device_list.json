@@ -47,6 +47,12 @@
     "vendor": "Motorola",
     "model": "Motorola G34 5G",
     "active": true
+    },
+    {
+    "codename": "lisa",
+    "vendor": "Xiaomi",
+    "model": "Xiaomi 11 Lite NE/MI 11 LE",
+    "active": true
     }
   ]
 }
