@@ -41,6 +41,12 @@
       "vendor": "OnePlus",
       "model": "OnePlus Pad 2/Pro",
       "active": false
+    },
+    {
+    "codename": "fogos",
+    "vendor": "Motorola",
+    "model": "Motorola G34 5G",
+    "active": true
     }
   ]
 }
