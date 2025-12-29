@@ -53,6 +53,12 @@
     "vendor": "Xiaomi",
     "model": "Xiaomi 11 Lite NE/MI 11 LE",
     "active": true
+    },
+    {
+    "codename": "garnet",
+    "vendor": "Xiaomi",
+    "model": "Redmi Note 13 Pro 5G/Poco X6 5G",
+    "active": true
     }
   ]
 }
