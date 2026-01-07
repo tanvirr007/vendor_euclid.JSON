@@ -59,6 +59,12 @@
     "vendor": "Xiaomi",
     "model": "Redmi Note 13 Pro 5G/Poco X6 5G",
     "active": true
+    },
+    {
+    "codename": "bangkk",
+    "vendor": "Motorola",
+    "model": "Motorola G84 5G",
+    "active": true
     }
   ]
 }
