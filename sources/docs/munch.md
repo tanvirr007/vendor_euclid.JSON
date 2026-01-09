@@ -1,16 +1,18 @@
-## Flashing Guide
+**Before start flashing.....**
+- Always have backup of your internal storage
 
-### Clean Flash:
-- Reboot to [Recovery](https://orangefox.download/device/munch)
-- Flash the rom
-- Reboot to recovery
-- Flash Gapps
-- Format Data
-- Reboot and Enjoy
+----
 
-### Dirty Flash:
-- Reboot to Recovery
-- Flash the rom
-- Reboot to recovery
-- Flash Gapps
-- Reboot and Enjoy
+**Clean flash:**
+- Download the ROM
+- Boot into recovery
+- Wipe Dalvik/Art Cache, cache and data
+- Flash the ROM and reboot to recovery
+- Tap on format data, type yes and reboot to system
+
+**Dirty flash:**
+- Download the ROM
+- Boot into recovery
+- Wipe Dalvik/ArtCache and Data
+- Flash the ROM and reboot to recovery
+- Reboot To System
