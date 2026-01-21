@@ -77,7 +77,7 @@ repo/sources/
 **Automate JSON Generation:** If you want to auto-generate the JSON files, run the **build.sh** script from the **bin** folder:
 - **Using:**
 ```bash
-bash bin/build.sh
+cd bin && bash build.sh
 ```
 -----
 
