@@ -65,6 +65,18 @@
     "vendor": "Motorola",
     "model": "Motorola G84 5G",
     "active": false
+    },
+    {
+    "codename": "lemonade",
+    "vendor": "OnePlus",
+    "model": "OnePlus 9",
+    "active": true
+    },
+    {
+    "codename": "lemonadep",
+    "vendor": "OnePlus",
+    "model": "OnePlus 9 Pro",
+    "active": true
     }
   ]
 }
